@@ -1,5 +1,5 @@
 # 정책Spoon | 정책을 쉽고 빠르게 맛보다.
-- 2024 DND Hackathon Team 춘식
+- 2024 DND Hackathon Team 춘식 (2024.05.17 ~ 2024.05.18)
 
 
 <br/>
